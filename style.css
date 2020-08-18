@@ -1,0 +1,415 @@
+
+.body {text-align: center;}
+
+.upper-container {
+    background-color: #e6dcd3;
+    height: 30rem;
+    text-align: center;
+}
+
+.header-title {
+    text-align: center;
+    font-family: cursive;
+    color: white;   
+    font-family: 'Philosopher', sans-serif;
+    font-size: 3rem;
+}
+.header-pic {
+    background-color: #e6dcd3;
+    height: 15rem;
+    margin-top: 6%;
+}
+
+.second-container {
+    padding: 5% 15%;
+    text-align: center;
+    align-content: center;
+    font-family: 'Philosopher', sans-serif;
+}
+.inner{overflow: hidden;
+}
+
+.inner img{transition: all 1.5s ease;}
+.inner:hover img {transform: scale(1.5);}
+
+.button {
+    background-color:pink;
+    padding: 12px 30px;
+    font-size: 1.5rem;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin: 10%;
+}
+.card-1{height: 20rem;}
+.card-2{height: 20rem;width: 110%;}
+.card2{margin-top: 8%;}
+.card-3{height: 20rem; width: 110%;}
+.card3{margin-top: 8%;}
+.card-4 {height: 20rem;}
+.card4{margin-top: 8%;}
+.card-5{height: 20rem;width: 110%;}
+.card5{margin-top: 8%;}
+.card-6{height: 20rem;width: 110%;}
+.card6{margin-top: 8%;}
+.card-7{height: 20rem;width: 110%;}
+.card-8{height: 20rem;width: 110%;}
+.card8{margin-top: 8%;}
+.card-9{height: 20rem;width: 110%;}
+.card9{margin-top: 8%;}
+.card-10{height: 20rem;}
+.card10{margin-top: 8%;}   
+.card-11{height: 20rem;}
+
+/*fleur-dream css */
+
+.fc-upper-container {
+    background-image: url(../css/flower\ flower.PNG);
+    background-size: 100%;
+    height: 25rem;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 10%;
+    font-family: 'Philosopher', sans-serif;
+}
+.fc-first-container {
+    padding: 5% 10%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+}
+.fc-header-title{
+    color: white;
+}
+
+.sg55-03{height: 20rem;width: 110%;}
+.sg55-02{height: 20rem;width: 110%;}
+.sg55-01{height: 20rem;width: 110%;}
+.FD-23{height: 20rem;width: 110%;}
+.FD-22{height: 20rem;width: 110%;}
+.FD-21{height: 20rem;width: 110%;}
+.FD-20{height: 20rem;width: 110%;}
+.FD-19{height: 20rem;width: 110%;}
+.FD-18{height: 20rem;width: 110%;}
+.FD-17{height: 20rem;width: 110%;}
+.FD-16{height: 20rem;width: 110%;}
+.FD-15{height: 20rem;width: 110%;}
+.FD-14{height: 20rem;width: 110%;}
+.FD-13{height: 20rem;width: 110%;}
+.FD-12{height: 20rem;width: 110%;}
+.FD-11{height: 20rem;width: 110%;}
+.FD-10{height: 20rem;width: 110%;}
+.FD-9{height: 20rem;width: 110%;}
+.FD-8{height: 20rem;width: 110%;}
+.FD-7{height: 20rem;width: 110%;}
+.FD-6{height: 20rem;width: 110%;}
+.FD-5{height: 20rem;width: 110%;}
+.FD-4{height: 20rem;width: 110%;}
+.FD-3{height: 20rem;width: 110%;}
+.FD-2{height: 20rem;width: 110%;}
+.FD-1{height: 20rem;width: 110%;}
+.fd-footer {padding: 5% 45%;}
+
+/* bloop bloop series*/
+.bb-upper-container {
+    background-image: url(../css/bloop.PNG);
+    background-size: 100%;
+    height: 25rem;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 10%;
+    font-family: 'Philosopher', sans-serif;
+}
+.bb-first-container {
+    padding: 5% 20%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+}
+.bb-header-title{
+    color: white;
+}
+
+.bb-22 {height: 20rem; width: 110%;}
+.bb-21 {height: 20rem; width: 110%;}
+.bb-20 {height: 20rem; width: 110%;}
+.bb-19 {height: 20rem; width: 110%;}
+.bb-18{height: 20rem; width: 110%;}
+.bb-17{height: 20rem; width: 110%;}
+.bb-16{height: 20rem; width: 110%;}
+.bb-15{height: 20rem; width: 110%;}
+.bb-14{height: 20rem; width: 110%;}
+.bb-13{height: 20rem; width: 110%;}
+.bb-12{height: 20rem; width: 110%;}
+.bb-11{height: 20rem; width: 110%;}
+.bb-10{height: 20rem; width: 110%;}
+.bb-09{height: 20rem; width: 110%;}
+.bb-08{height: 20rem; width: 110%;}
+.bb-07{height: 20rem; width: 110%;}
+.bb-06{height: 20rem; width: 110%;}
+.bb-05{height: 20rem; width: 110%;}
+.bb-04{height: 20rem; width: 110%;}
+.bb-03{height: 20rem; width: 110%;}
+.bb-02{height: 20rem; width: 110%;}
+.bb-01{height: 20rem; width: 110%;}
+.bb-footer {padding: 5% 45%;}
+
+/*.floral-constellation*/
+.fl-upper-container {
+    background-image: url(../css/floral-constellation.PNG);
+    background-size: 100%;
+    height: 25rem;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 10%;
+    font-family: 'Philosopher', sans-serif;
+}
+.fl-first-container {
+    padding: 5% 20%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;}
+.fl-header-title{color: white;}
+.FL-24{height: 20rem; width: 110%;}
+.FL-23{height: 20rem; width: 110%;}
+.FL-22{height: 20rem; width: 110%;}
+.FL-21{height: 20rem; width: 110%;}
+.FL-20{height: 20rem; width: 110%;}
+.FL-19{height: 20rem; width: 110%;}
+.FL-18{height: 20rem; width: 110%;}
+.FL-17{height: 20rem; width: 110%;}
+.FL-16{height: 20rem; width: 110%;}
+.FL-15{height: 20rem; width: 110%;}
+.FL-14{height: 20rem; width: 110%;}
+.FL-13{height: 20rem; width: 110%;}
+.FL-12{height: 20rem; width: 110%;}
+.FL-11{height: 20rem; width: 110%;}
+.FL-10{height: 20rem; width: 110%;}
+.FL-09{height: 20rem; width: 110%;}
+.FL-08{height: 20rem; width: 110%;}
+.FL-07{height: 20rem; width: 110%;}
+.FL-06{height: 20rem; width: 110%;}
+.FL-05{height: 20rem; width: 110%;}
+.FL-04{height: 20rem; width: 110%;}
+.FL-03{height: 20rem; width: 110%;}
+.FL-02{height: 20rem; width: 110%;}
+.FL-01{height: 20rem; width: 110%;}
+
+/*tulip fever*/
+.tf-upper-container {
+    background-image: url(../css/Turnip-Fever.PNG);
+    background-size: 100%;
+    height: 25rem;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 10%;
+    font-family: 'Philosopher', sans-serif;
+}
+.tf-first-container {
+    padding: 5% 20%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;}
+
+.tf-header-title{color: white;}
+
+.tf-24{height: 20rem; width: 110%;}
+.tf-23{height: 20rem; width: 110%;}
+.tf-22{height: 20rem; width: 110%;}
+.tf-21{height: 20rem; width: 110%;}
+.tf-20{height: 20rem; width: 110%;}
+.tf-19{height: 20rem; width: 110%;}
+.tf-18{height: 20rem; width: 110%;}
+.tf-17{height: 20rem; width: 110%;}
+.tf-16{height: 20rem; width: 110%;}
+.tf-15{height: 20rem; width: 110%;}
+.tf-14{height: 20rem; width: 110%;}
+.tf-13{height: 20rem; width: 110%;}
+.tf-12{height: 20rem; width: 110%;}
+.tf-11{height: 20rem; width: 110%;}
+.tf-10{height: 20rem; width: 110%;}
+.tf-09{height: 20rem; width: 110%;}
+.tf-08{height: 20rem; width: 110%;}
+.tf-07{height: 20rem; width: 110%;}
+.tf-06{height: 20rem; width: 110%;}
+.tf-05{height: 20rem; width: 110%;}
+.tf-04{height: 20rem; width: 110%;}
+.tf-03{height: 20rem; width: 110%;}
+.tf-02{height: 20rem; width: 110%;}
+.tf-01{height: 20rem; width: 110%;}
+
+/*Peach Please*/
+.pp-upper-container {
+    background-image: url(../css/Peach-please\(revised\).png);
+    background-size: 100%;
+    height: 25rem;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 10%;
+    font-family: 'Philosopher', sans-serif;
+}
+.pp-first-container {
+    padding: 5% 20%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;}
+
+.pp-header-title{color: white;}
+
+.pp-20{height: 20rem; width: 110%;}
+.pp-19{height: 20rem; width: 110%;}
+.pp-18{height: 20rem; width: 110%;}
+.pp-17{height: 20rem; width: 110%;}
+.pp-16{height: 20rem; width: 110%;}
+.pp-15{height: 20rem; width: 110%;}
+.pp-14{height: 20rem; width: 110%;}
+.pp-13{height: 20rem; width: 110%;}
+.pp-12{height: 20rem; width: 110%;}
+.pp-11{height: 20rem; width: 110%;}
+.pp-10{height: 20rem; width: 110%;}
+.pp-09{height: 20rem; width: 110%;}
+.pp-08{height: 20rem; width: 110%;}
+.pp-07{height: 20rem; width: 110%;}
+.pp-06{height: 20rem; width: 110%;}
+.pp-05{height: 20rem; width: 110%;}
+.pp-04{height: 20rem; width: 110%;}
+.pp-03{height: 20rem; width: 110%;}
+.pp-02{height: 20rem; width: 110%;}
+.pp-01{height: 20rem; width: 110%;}
+
+/*you've got mail*/
+.ma-upper-container {
+    background-image: url(../css/you-got-mail.PNG);
+    background-size: 100%;
+    height: 25rem;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 10%;
+    font-family: 'Philosopher', sans-serif;
+}
+.ma-first-container {
+    padding: 5% 20%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;}
+
+.ma-header-title{color: white;}
+
+.ma-16{height: 20rem; width: 110%;}
+.ma-15{height: 20rem; width: 110%;}
+.ma-14{height: 20rem; width: 110%;}
+.ma-13{height: 20rem; width: 110%;}
+.ma-12{height: 20rem; width: 110%;}
+.ma-11{height: 20rem; width: 110%;}
+.ma-10{height: 20rem; width: 110%;}
+.ma-09{height: 20rem; width: 110%;}
+.ma-08{height: 20rem; width: 110%;}
+.ma-07{height: 20rem; width: 110%;}
+.ma-06{height: 20rem; width: 110%;}
+.ma-05{height: 20rem; width: 110%;}
+.ma-04{height: 20rem; width: 110%;}
+.ma-03{height: 20rem; width: 110%;}
+.ma-02{height: 20rem; width: 110%;}
+.ma-01{height: 20rem; width: 110%;}
+
+/*I lilac you*/
+.ly-upper-container {
+    background-image: url(../css/i-lilac-you.PNG);
+    background-size: 100%;
+    height: 25rem;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 10%;
+    font-family: 'Philosopher', sans-serif;
+}
+.ly-first-container {
+    padding: 5% 20%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;}
+
+.ly-header-title{color: white;}
+
+.ly-16{height: 20rem; width: 110%;}
+.ly-15{height: 20rem; width: 110%;}
+.ly-14{height: 20rem; width: 110%;}
+.ly-13{height: 20rem; width: 110%;}
+.ly-12{height: 20rem; width: 110%;}
+.ly-11{height: 20rem; width: 110%;}
+.ly-10{height: 20rem; width: 110%;}
+.ly-09{height: 20rem; width: 110%;}
+.ly-08{height: 20rem; width: 110%;}
+.ly-07{height: 20rem; width: 110%;}
+.ly-06{height: 20rem; width: 110%;}
+.ly-05{height: 20rem; width: 110%;}
+.ly-04{height: 20rem; width: 110%;}
+.ly-03{height: 20rem; width: 110%;}
+.ly-02{height: 20rem; width: 110%;}
+.ly-01{height: 20rem; width: 110%;}
+
+/*Sakura Garden*/
+.sg-upper-container {
+    background-image: url(../css/sakura-garden.PNG);
+    background-size: 100%;
+    height: 25rem;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 10%;
+    font-family: 'Philosopher', sans-serif;
+}
+.sg-first-container {
+    padding: 5% 20%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;}
+
+.sg-header-title{color: white;}
+
+.sg-12{height: 20rem; width: 110%;}
+.sg-11{height: 20rem; width: 110%;}
+.sg-10{height: 20rem; width: 110%;}
+.sg-09{height: 20rem; width: 110%;}
+.sg-08{height: 20rem; width: 110%;}
+.sg-07{height: 20rem; width: 110%;}
+.sg-06{height: 20rem; width: 110%;}
+.sg-05{height: 20rem; width: 110%;}
+.sg-04{height: 20rem; width: 110%;}
+.sg-03{height: 20rem; width: 110%;}
+.sg-02{height: 20rem; width: 110%;}
+.sg-01{height: 20rem; width: 110%;}
+
+/*Periwinkle*/
+.mp-upper-container {
+    background-image: url(../css/mood-periwinkle.PNG);
+    background-size: 100%;
+    height: 25rem;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 10%;
+    font-family: 'Philosopher', sans-serif;
+}
+.mp-first-container {
+    padding: 5% 20%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;}
+
+.mp-header-title{color: white;}
+
+.mp-05{height: 20rem; width: 110%;}
+.mp-04{height: 20rem; width: 110%;}
+.mp-03{height: 20rem; width: 110%;}
+.mp-02{height: 20rem; width: 110%;}
+.mp-01{height: 20rem; width: 110%;}
+
+/*Its blooming*/
+.it-upper-container {
+    background-image: url(../css/its-blooming.PNG);
+    background-size: 100%;
+    height: 25rem;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 10%;
+    font-family: 'Philosopher', sans-serif;
+}
+.it-first-container {
+    padding: 5% 20%;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;}
+
+.it-header-title{color: white;}
+
+.it-03{height: 20rem; width: 110%;}
+.it-02{height: 20rem; width: 110%;}
+.it-01{height: 20rem; width: 110%;}
